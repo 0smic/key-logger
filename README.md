@@ -6,7 +6,7 @@ This Python script captures and logs keystrokes using the `pynput` library. It i
 
 ## Features
 
-- Logs keystrokes to a text file, "file.txt".
+- Logs keystrokes to a text file, "key_log.txt".
 - Supports logging of space, enter, backspace, and printable characters.
 - Provides a clean and straightforward structure for educational purposes.
 
@@ -30,6 +30,6 @@ This Python script captures and logs keystrokes using the `pynput` library. It i
    ```bash
    python main.py
 
-4. Start typing, and the keystrokes will be logged to "file.txt."
+4. Start typing, and the keystrokes will be logged to "key_log.txt."
 
 5. To stop the keylogger, press the 'Esc' key.
