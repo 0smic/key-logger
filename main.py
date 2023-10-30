@@ -1,4 +1,7 @@
 from pynput import keyboard
+
+author = "Gokul B"
+
 def on_press(key):
     
     try:
