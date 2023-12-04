@@ -20,7 +20,7 @@ This Python script captures and logs keystrokes using the `pynput` library. It i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/huho-0/key-logger
+   git clone https://github.com/0smic/key-logger
 
 2. Change to project directory
    ```bash
